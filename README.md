@@ -1,2 +1,2 @@
 # Shyloh-Test
-Class assignment
+Class assignment. Take that activity one!
